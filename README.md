@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an options trading system using FastAPI, the repository is private<br>I'm currently learning Portainer and CD with ghcr.io
+I'm currently working on an options trading system using Python and Tailwind.<br>I'm currently learning Portainer and CD with ghcr.io
 
 
 ## 🌐 Socials:
